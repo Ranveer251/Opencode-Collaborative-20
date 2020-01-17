@@ -83,8 +83,18 @@
         "github" : "https://github.com/JLodha",
         "twitter" : "https://twitter.com/JanitLodha",
         "referral" : ""
-     }
-
+     },
+     {
+        "name" : "Ranveer Singh",
+        "imageurl" : "https://i.pinimg.com/originals/1c/83/38/1c833864cb63b8fcb10bf41d2058c1d4.jpg",
+        "about" : "Exploring the world of development",
+        "college" : "IIIT Allahabad",
+        "facebook" : "https://www.facebook.com/manik.sidana.98",
+        "github" : "https://github.com/Ranveer251",
+        "twitter" : "",
+        "referral" : "Seniors"
+      }	,
+      
 ]
 
 
